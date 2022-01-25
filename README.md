@@ -4,7 +4,7 @@ Web app - Partial blog demo/example using HTML, CSS3, JavaScript, NodeJS, MySQL,
 ## How to use
 Alter the .env file with your database name, username, password and dialect;
 
-Open the cmd prompt and type/go the location off the project, ex: C:\Users\user\Documents\javaScript\myblog
+Open the cmd prompt and go to the project location, ex: C:\Users\user\Documents\javaScript\myblog
 
 then type: npm start
 
